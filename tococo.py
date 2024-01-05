@@ -11,7 +11,7 @@
 # import glob
 #
 # # 假设所有 JSON 文件都在一个文件夹中
-# json_files = glob.glob('H:/test_png/*.json')  # 替换为您的文件夹路径
+# json_files = glob.glob('H:/test_png/*.json')  # 替换文件夹路径
 # # print(json_files)
 #
 # # COCO 格式的基本结构
